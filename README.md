@@ -185,6 +185,45 @@ You can get most of the files easily through the [Theme Manager](https://github.
 </details>
 
 <details>
+  <summary><strong>Next Pixel Themed Handheld Consoles •&nbsp;<a href="https://github.com/user-attachments/files/21886523/Next.Pixel.Themed.Handheld.Consoles.zip">Complete Edition</a></strong></summary>
+
+  <p>
+
+   <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/cf46e900-498c-40bf-8807-65465b40bae0" width="100%"><br>
+        <sub><em>Game Boy</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/138f5f7f-5cc3-4db7-8375-00fe206433f9" width="100%"><br>
+        <sub><em>Game Boy Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/5156a1d4-86f7-4652-aa20-eb528e41187f" width="100%"><br>
+        <sub><em>Game Boy Advance</em></sub>
+      </td>
+      </td>
+    </tr>
+      <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/10a44355-aad1-4c83-9772-26c10f86aba1" width="100%"><br>
+        <sub><em>Game Gear</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/eeada953-e565-45c9-a27f-e3bd11894e96" width="100%"><br>
+        <sub><em>Neo Geo Pocket Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/957e04bd-77b8-4959-8dee-a79b77897921" width="100%"><br>
+        <sub><em>Lynx</em></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
   <summary><strong>Deep Space Themed Handheld Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964253/Deep.Space.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
   <p>
