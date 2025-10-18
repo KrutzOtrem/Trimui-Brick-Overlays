@@ -41,6 +41,30 @@ You can get most of the files easily through the [Theme Manager](https://github.
 <details open> <!-- opened by default for instant eye-candy -->
 <summary>
   <strong>
+    Fullscreen Themes
+  </strong>
+</summary>
+
+<p>
+
+<table width="100%" cellspacing="0" cellpadding="4" border="1">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/313c937e-8b16-4c9f-9dce-102f11983bcd" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/np.v1.0/Next.Pixel.zip">Save Point, Custom</a></sub>
+    </td>
+       <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/264bf320-ac1b-4ba3-b615-0c1bf10e96bb" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/bz.v1.0/Brick.Zero.zip">Save Point, Vanilla/a></sub>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open> <!-- opened by default for instant eye-candy -->
+<summary>
+  <strong>
     Latest Themes
   </strong>
 </summary>
