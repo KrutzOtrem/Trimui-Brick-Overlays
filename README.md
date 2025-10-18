@@ -50,7 +50,7 @@ You can get most of the files easily through the [Theme Manager](https://github.
 <table width="100%" cellspacing="0" cellpadding="4" border="1">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/898b218a-9848-4562-af9e-afa2ab24e62e width="100%"><br>
+      <img src="https://github.com/user-attachments/assets/898b218a-9848-4562-af9e-afa2ab24e62e" width="100%"><br>
         <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/s.p.v1/Save.Point.zip">Save Point, Custom</a></sub>
     </td>
        <td width="50%" align="center">
