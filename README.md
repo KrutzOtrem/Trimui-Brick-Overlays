@@ -55,7 +55,7 @@ You can get most of the files easily through the [Theme Manager](https://github.
     </td>
        <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/40b52d6e-2e32-4299-91eb-fe04d1e4c1bb" width="100%"><br>
-        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/s.p.v.v1.1/Save.Point.-.Vanilla.zip">Save Point, Vanilla/a></sub>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/s.p.v.v1.1/Save.Point.-.Vanilla.zip">Save Point, Vanilla</a></sub>
     </td>
   </tr>
 </table>
