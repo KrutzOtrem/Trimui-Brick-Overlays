@@ -50,12 +50,12 @@ You can get most of the files easily through the [Theme Manager](https://github.
 <table width="100%" cellspacing="0" cellpadding="4" border="1">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/313c937e-8b16-4c9f-9dce-102f11983bcd" width="100%"><br>
-        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/np.v1.0/Next.Pixel.zip">Save Point, Custom</a></sub>
+      <img src="https://github.com/user-attachments/assets/898b218a-9848-4562-af9e-afa2ab24e62e width="100%""><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/s.p.v1/Save.Point.zip">Save Point, Custom</a></sub>
     </td>
        <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/264bf320-ac1b-4ba3-b615-0c1bf10e96bb" width="100%"><br>
-        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/bz.v1.0/Brick.Zero.zip">Save Point, Vanilla/a></sub>
+      <img src="https://github.com/user-attachments/assets/40b52d6e-2e32-4299-91eb-fe04d1e4c1bb" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/s.p.v.v1.1/Save.Point.-.Vanilla.zip">Save Point, Vanilla/a></sub>
     </td>
   </tr>
 </table>
