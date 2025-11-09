@@ -574,7 +574,7 @@ You are free to use these assets anywhere you want and modify them however you l
 ## Credits
 
 <details> 
-<summary><strong>Next Pixel Theme</strong></summary>
+<summary><strong>Next Pixel & Save Point Theme</strong></summary>
 <br>
 
 <p>Original console assets are used for the Colorful theme, gathered or made by <a href="https://forums.launchbox-app.com/profile/70421-viking/">Viking</a>, and shared on the <a href="https://forums.launchbox-app.com/files/file/2485-colorful-resources/">LaunchBox forums</a>. Pixelated by me. </p>
