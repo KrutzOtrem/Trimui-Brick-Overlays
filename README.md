@@ -29,7 +29,7 @@ The theme designs are loosely inspired by CRT-style visuals, and the emulator ov
 
 Some of the effects, like the *Mesh Grid* for home consoles and the *LCD Grid* for handhelds, might not look great in screenshots, but they were made specifically for the Trimui screen and tested through lots of trial and error. They’re still a work in progress, and I’ll keep improving them. Same goes for the drop shadow used to create a bit of depth, it took more time than I’d like to admit, but it does also look better on the actual device.
 
-You can get most of the files easily through the [Theme Manager](https://github.com/Leviathanium/NextUI-Theme-Manager), or just download them from the tables below—each one includes ZIP links.
+You can get some of the older files easily through the [Aesthetics](https://github.com/redria7/nextui-aesthetics), or just download them from the tables below—each one includes ZIP links.
 
 **Click the arrows to expand the tables and see the samples. There's a bunch in there, so take a look. Hope you find something you like!**
 
