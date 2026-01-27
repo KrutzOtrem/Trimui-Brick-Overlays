@@ -565,7 +565,7 @@ Most *Game Boy Advance Special Edition* overlays require manual offset adjustmen
 <details> 
   <summary><strong>Feedback</strong></summary>
 
-Please don’t hesitate to reach out to me on Discord with **#pseudoinsomniac** handle, or @Shin on [NextUI](https://github.com/LoveRetro/NextUI) [Discord](https://discord.gg/HKd7wqZk3h) if you have any feedback on these overlays. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
+Please don’t hesitate to reach out to me on Discord with **#krutzotrem** handle, or @Shin on [NextUI](https://github.com/LoveRetro/NextUI) [Discord](https://discord.gg/HKd7wqZk3h) if you have any feedback on these overlays. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
 
 You are free to use these assets anywhere you want and modify them however you like, as long as they are my own work and not among the credited assets listed below. In those cases, please follow the proper procedure.
 <br>
