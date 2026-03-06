@@ -7,7 +7,7 @@
 <!-- minimal jump-<img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20">s bar -->
 <h3 align="center">
   <a href="#themes">Themes</a>&nbsp;•&nbsp;
-  <a href="#themed-overlays">Themed Overlays</a>&nbsp;•&nbsp;
+  <a href="#themed-overlays">Overlays</a>&nbsp;•&nbsp;
   <a href="#special-edition-overlays">Special Edition Overlays</a>&nbsp;•&nbsp;
   <a href="#installation">Installation</a>&nbsp;•&nbsp;
   <a href="#configuration">Configuration</a>&nbsp;•&nbsp;
