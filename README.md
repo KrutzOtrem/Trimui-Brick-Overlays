@@ -51,7 +51,8 @@ You can get some of the older files easily through the [Aesthetics](https://gith
   <tr>
     <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/45c93c58-6282-4ab3-bc9f-14a9408ae304" width="100%"><br>
-        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/ag.v1.0.0/Amber.Glass.zip">Amber Glass</a></sub> | <sub><a href="https://github.com/user-attachments/files/26135387/Amber.Glass.Quick.Menu.zip)
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/ag.v1.0.0/Amber.Glass.zip">Amber Glass</a></sub> | <sub><a href="https://github.com/user-attachments/files/26161068/Amber.Glass.Quick.Menu.zip")
+")
 ">Quick Menu</a></sub>
     </td>
     <td width="33%" align="center">
